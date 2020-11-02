@@ -7,5 +7,14 @@ h2 {
 
 img {
     height: 45vh;
-      
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
