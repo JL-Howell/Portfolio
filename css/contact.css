@@ -4,7 +4,7 @@
     height: 70vh;
     box-shadow: 2px 4px 25px rgb(16, 16, 235);
     border-radius: 20px;
-    background-image: url(/assets/beachImage.jpg);
+    background-image: url(../assets/beachImage.jpg);
     background-size: cover;
 }
 
