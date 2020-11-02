@@ -1,0 +1,9 @@
+.jumbotron {
+    background: url('../assets/coding.jpg') center bottom;
+    background-size: cover; /* we want to cover the whole div*/
+    height: 100vh; 
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
